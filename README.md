@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Álvaro López Maliza 👨‍🔬
 
 Welcome to my GitHub profile! I'm a dedicated researcher with a strong background in immunology and data science.
+![Connecting Dots and Building Bridges](url_de_tu_imagen)
 
 ## 📚 Education
 - Ph.D. in basic intratumoral immunology
