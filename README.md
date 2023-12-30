@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Álvaro López Maliza 👨‍🔬
 
 Welcome to my GitHub profile! I'm a dedicated researcher with a strong background in immunology and data science.
-![Connecting Dots and Building Bridges](<img width="200" alt="Comunidades_gsww_louvain" src="https://github.com/AlvaroLopezMalizia/AlvaroLopezMalizia/assets/89276167/34cebe17-f849-4070-9fd8-07df2f244c72">)
+
+[<img align="right" width="450" alt="Connecting Dots and Building Bridges" src="https://github.com/AlvaroLopezMalizia/AlvaroLopezMalizia/assets/89276167/34cebe17-f849-4070-9fd8-07df2f244c72">](https://github.com/AlvaroLopezMalizia/AlvaroLopezMalizia/assets/89276167/34cebe17-f849-4070-9fd8-07df2f244c72)
 
 ## 📚 Education
 - Ph.D. in basic intratumoral immunology
