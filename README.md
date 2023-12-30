@@ -1,5 +1,24 @@
-👋 Hi there! I'm Álvaro López Maliza, a passionate researcher with a Ph.D. in basic intratumoral immunology, a degree in biology, and currently on the verge of completing a master’s degree in data science 🧑‍🎓. I'm actively on the lookout for a postdoc position that will not only leverage my existing skills but also provide opportunities to delve deeper into omics techniques, especially single-cell RNAseq and spatial transcriptomics 🧬.
+# 👋 Hi there! I'm Álvaro López Maliza 👨‍🔬
 
-My interests thrive at the exciting intersection of immunology and data science 🌐. Proficient in both R and Python, I bring a unique blend of programming skills and a wealth of knowledge in data science techniques, encompassing clustering, machine learning 🤖, and neural networks 🧠.
+Welcome to my GitHub profile! I'm a dedicated researcher with a strong background in immunology and data science.
 
-Let's connect and explore the fascinating realms of data-driven immunology! 🚀
+## 📚 Education
+- Ph.D. in basic intratumoral immunology
+- Bachelor's degree in biology
+- Master’s degree in data science (in progress)
+
+## 🔍 Seeking Opportunities
+I am actively seeking a postdoc position to further enhance my skills and broaden my expertise in omics techniques, particularly single-cell RNAseq and spatial transcriptomics.
+
+## 💡 Interests
+My interests lie at the intersection of immunology and data science, where I bring together my passion for biology with advanced computational techniques.
+
+## 🚀 Skills
+- Programming languages: R, Python
+- Data science techniques: Clustering, Machine Learning 🤖, Neural Networks 🧠
+
+Let's connect and explore the fascinating realms of data-driven immunology! Feel free to reach out to me.
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-malizia-458a9a115/)
+[![ResearchID](https://img.shields.io/badge/-ResearchID-red?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://researchid.co/alvaroresearhid)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-orange?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en)
