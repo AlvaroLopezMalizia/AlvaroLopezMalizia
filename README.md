@@ -24,3 +24,6 @@ Let's connect and explore the fascinating realms of data-driven immunology! Feel
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-malizia-458a9a115/)
 [![ResearchID](https://img.shields.io/badge/-ResearchID-red?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://researchid.co/alvaroresearhid)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-orange?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en)
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroLopezMalizia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
