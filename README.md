@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated researcher with a strong backgroun
 ## 📚 Education
 - Ph.D. in basic intratumoral immunology
 - Bachelor's degree in biology
-- Master’s degree in data science (in progress)
+- Master’s degree in data science
 
 ## 🔍 Seeking Opportunities
 I am actively seeking a postdoc position to further enhance my skills and broaden my expertise in omics techniques, particularly single-cell RNAseq and spatial transcriptomics.
