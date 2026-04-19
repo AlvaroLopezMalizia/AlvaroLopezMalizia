@@ -30,7 +30,7 @@ I'm a postdoctoral researcher passionate about decoding the tumour microenvironm
 >
 > 🎗️ Funded by the <strong><a href="https://aecctalent.com/">Asociación Española Contra el Cáncer (AECC)</a></strong> fellowship
 >
-> 🧬 Applying omics techniques — single-cell RNAseq & spatial transcriptomics — to intratumoral immunology
+> 🧬 Applying omics techniques - single-cell RNAseq & spatial transcriptomics - to intratumoral immunology
 
 <br clear="right"/>
 
