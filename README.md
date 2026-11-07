@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6B3C,100:2EA043&height=220&section=header&text=Álvaro%20López%20Maliza&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Immunology%20·%20Data%20Science%20·%20Computational%20Biology&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6B3C,100:2EA043&height=220&section=header&text=Álvaro%20López%20Malizia&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Immunology%20·%20Data%20Science%20·%20Computational%20Biology&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Postdoc+%40+IJC+%F0%9F%94%AC+%7C+AECC+Fellow+%F0%9F%8E%97%EF%B8%8F;Bridging+Immunology+%26+Computational+Biology+%F0%9F%A7%AC" alt="Typing SVG" /></a>
@@ -24,6 +24,8 @@
 
 I'm a postdoctoral researcher passionate about decoding the tumour microenvironment through data-driven approaches. My work sits at the crossroads of <strong>wet-lab immunology</strong> and <strong>computational biology</strong>, combining single-cell and spatial omics with machine learning to uncover new therapeutic opportunities in cancer.
 
+Currently, I'm dissecting the <strong>spatial architecture of lymphoma</strong> — using spatial transcriptomics and unsupervised factor models (MEFISTO) to reveal the biological programs that shape the tumour microenvironment.
+
 ### 🔬 Current Position
 
 > 🏛️ Postdoctoral Researcher at the <strong><a href="https://www.carrerasresearch.org/en/">Institut de Recerca contra la Leucèmia Josep Carreras (IJC)</a></strong>
@@ -43,6 +45,43 @@ I'm a postdoctoral researcher passionate about decoding the tumour microenvironm
 | 🧪 <strong>Ph.D.</strong> | Intratumoral Immunology | <a href="https://www.fmed.uba.ar/">Fac. de Medicina, UBA</a> · Research stay at <a href="https://institut-curie.org/">Institut Curie</a> | — |
 | 📊 <strong>M.Sc.</strong> | Data Science | <a href="https://datamining.dc.uba.ar/datamining/">Data Mining Group, DC, UBA</a> | <a href="https://www.youtube.com/watch?v=NTipLTRHD_8&t=2406s">▶️ Thesis defense</a> |
 | 🌿 <strong>B.Sc.</strong> | Biology | <a href="https://exactas.uba.ar/">Fac. de Ciencias Exactas y Naturales, UBA</a> | — |
+
+---
+
+### 📝 Selected Publications
+
+> 🧫 <strong><a href="https://doi.org/10.1080/2162402X.2023.2294564">Clusterin protects mature dendritic cells from reactive oxygen species mediated cell death</a></strong>
+> <em>OncoImmunology</em>, 2024 — first author
+>
+> 🎯 <strong><a href="https://doi.org/10.1080/2162402X.2019.1629257">Aberrant fucosylation enables breast cancer clusterin to interact with DC-SIGN</a></strong>
+> <em>OncoImmunology</em>, 2019
+>
+> 🩸 <strong><a href="https://doi.org/10.1111/bjh.18062">Platelets modulate CD4⁺ T-cell function in COVID-19 through a PD-L1 dependent mechanism</a></strong>
+> <em>British Journal of Haematology</em>, 2022
+>
+> 🔬 <strong><a href="https://doi.org/10.3389/fimmu.2018.01441">Prostaglandin E2 antagonizes TGF-β actions during the differentiation of monocytes into dendritic cells</a></strong>
+> <em>Frontiers in Immunology</em>, 2018
+>
+> 🗺️ <strong>Unsupervised spatial decomposition of lymphoma subtypes reveals distinct biological programs via MEFISTO</strong>
+> 2025 — first author
+
+<div align="center">
+<a href="https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Full%20publication%20list%20on%20Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+</div>
+
+---
+
+### 📂 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/AlvaroLopezMalizia/scRNAseq_workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=scRNAseq_workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
+<a href="https://github.com/AlvaroLopezMalizia/scTCR_workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=scTCR_workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
+
+<a href="https://github.com/AlvaroLopezMalizia/Facs_workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=Facs_workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
+<a href="https://github.com/AlvaroLopezMalizia/Word-networks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=Word-networks&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
+
+</div>
 
 ---
 
@@ -90,7 +129,7 @@ I'm a postdoctoral researcher passionate about decoding the tumour microenvironm
 
 <br/><br/>
 
-<a href="https://github.com/AlvaroLopezMalizia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroLopezMalizia&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=FF6F00&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=8B949E" /></a>
+<a href="https://github.com/AlvaroLopezMalizia"><img src="https://streak-stats.demolab.com/?user=AlvaroLopezMalizia&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=FF6F00&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=8B949E" /></a>
 
 <br/><br/>
 
@@ -108,7 +147,7 @@ I'm a postdoctoral researcher passionate about decoding the tumour microenvironm
 
 <br/><br/>
 
-<a href="mailto:"><img src="https://img.shields.io/badge/Let's_collaborate!-2EA043?style=for-the-badge&logoColor=white" alt="Collaborate"/></a>
+<a href="mailto:alvarolopezmalizia@gmail.com"><img src="https://img.shields.io/badge/Let's_collaborate!-2EA043?style=for-the-badge&logoColor=white" alt="Collaborate"/></a>
 
 <br/><br/>
 
