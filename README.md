@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532D,100:166534&height=200&section=header&text=Álvaro%20López%20Malizia&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Postdoctoral%20Researcher%20·%20Cancer%20Immunogenomics&descSize=18&descAlignY=58&animation=fadeIn" />
+<!-- Header (commit assets/github_header_dark.png to this repo) -->
+<img width="100%" src="assets/github_header_dark.png" alt="Álvaro López Malizia · Bridging Immunology &amp; Computational Biology"/>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 
 I'm a postdoctoral researcher decoding the **tumour microenvironment** through data-driven approaches. My work sits at the crossroads of **wet-lab immunology** and **computational biology**, combining single-cell and spatial omics with machine learning to uncover new therapeutic opportunities in cancer.
 
-Currently, I'm studying the **spatial organization of lymphomas** — mapping how tumour and immune cells assemble into spatial communities, and how this architecture shapes disease biology and response to therapy.
+Currently, I'm studying the **spatial organization of lymphomas**: mapping how tumour and immune cells assemble into spatial communities, and how this architecture shapes disease biology and response to therapy.
 
 - 🏛️ Postdoctoral Researcher, [Cancer Immunogenomics group](https://www.carrerasresearch.org/en/), **Josep Carreras Leukaemia Research Institute (IJC)**, Barcelona
 - 🎗️ Fellow of the [**Asociación Española Contra el Cáncer (AECC)**](https://aecctalent.com/), co-funded by the European Union
@@ -29,7 +29,7 @@ Currently, I'm studying the **spatial organization of lymphomas** — mapping ho
 ## Selected Publications
 
 - [**Clusterin protects mature dendritic cells from reactive oxygen species mediated cell death**](https://doi.org/10.1080/2162402X.2023.2294564)
-  *OncoImmunology*, 2024 — **first author**
+  *OncoImmunology*, 2024 (**first author**)
 - [**Aberrant fucosylation enables breast cancer clusterin to interact with DC-SIGN**](https://doi.org/10.1080/2162402X.2019.1629257)
   *OncoImmunology*, 2019
 - [**Platelets modulate CD4⁺ T-cell function in COVID-19 through a PD-L1 dependent mechanism**](https://doi.org/10.1111/bjh.18062)
@@ -37,7 +37,7 @@ Currently, I'm studying the **spatial organization of lymphomas** — mapping ho
 - [**Prostaglandin E2 antagonizes TGF-β actions during the differentiation of monocytes into dendritic cells**](https://doi.org/10.3389/fimmu.2018.01441)
   *Frontiers in Immunology*, 2018
 - **Unsupervised spatial decomposition of lymphoma subtypes reveals distinct biological programs via MEFISTO**
-  2025 — **first author**
+  2025 (**first author**)
 
 <div align="center">
 
@@ -58,8 +58,8 @@ Currently, I'm studying the **spatial organization of lymphomas** — mapping ho
 
 | Degree | Field | Institution |
 |:---|:---|:---|
-| **Ph.D.** | Intratumoral Immunology | [Fac. de Medicina, UBA](https://www.fmed.uba.ar/) — research stay at [Institut Curie](https://institut-curie.org/) |
-| **M.Sc.** | Data Science | [Data Mining Group, DC, UBA](https://datamining.dc.uba.ar/datamining/) — [▶️ thesis defense](https://www.youtube.com/watch?v=NTipLTRHD_8&t=2406s) |
+| **Ph.D.** | Intratumoral Immunology | [Fac. de Medicina, UBA](https://www.fmed.uba.ar/) · research stay at [Institut Curie](https://institut-curie.org/) |
+| **M.Sc.** | Data Science | [Data Mining Group, DC, UBA](https://datamining.dc.uba.ar/datamining/) · [▶️ thesis defense](https://www.youtube.com/watch?v=NTipLTRHD_8&t=2406s) |
 | **B.Sc.** | Biology | [Fac. de Ciencias Exactas y Naturales, UBA](https://exactas.uba.ar/) |
 
 ## Tech Stack
@@ -80,10 +80,10 @@ Currently, I'm studying the **spatial organization of lymphomas** — mapping ho
 
 <div align="center">
 
-*Exploring the fascinating realms of data-driven immunology — one cell at a time.*
+*Exploring the fascinating realms of data-driven immunology, one cell at a time.*
 
-📫 Open to collaborations in computational immunology and spatial omics — [get in touch](mailto:alvarolopezmalizia@gmail.com)
+📫 Open to collaborations in computational immunology and spatial omics: [get in touch](mailto:alvarolopezmalizia@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532D,100:166534&height=100&section=footer" />
+<img width="100%" src="assets/github_footer_dark.png" alt=""/>
 
 </div>
