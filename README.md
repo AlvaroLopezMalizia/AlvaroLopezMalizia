@@ -1,156 +1,89 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6B3C,100:2EA043&height=220&section=header&text=Álvaro%20López%20Malizia&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Immunology%20·%20Data%20Science%20·%20Computational%20Biology&descSize=18&descAlignY=55&animation=fadeIn" />
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532D,100:166534&height=200&section=header&text=Álvaro%20López%20Malizia&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Postdoctoral%20Researcher%20·%20Cancer%20Immunogenomics&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Postdoc+%40+IJC+%F0%9F%94%AC+%7C+AECC+Fellow+%F0%9F%8E%97%EF%B8%8F;Bridging+Immunology+%26+Computational+Biology+%F0%9F%A7%AC" alt="Typing SVG" /></a>
+<br/><br/>
 
-<br/>
-
-<!-- Profile Badges -->
-<img src="https://komarev.com/ghpvc/?username=AlvaroLopezMalizia&style=for-the-badge&color=2EA043" alt="Profile Views"/>
-<a href="https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-malizia-458a9a115/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="https://researchid.co/alvaroresearhid"><img src="https://img.shields.io/badge/-ResearchID-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchID"/></a>
+<a href="https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-malizia-458a9a115/"><img src="https://img.shields.io/badge/LinkedIn-%C3%81lvaro%20L%C3%B3pez%20Malizia-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="https://researchid.co/alvaroresearhid"><img src="https://img.shields.io/badge/ResearchID-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchID"/></a>
+<a href="mailto:alvarolopezmalizia@gmail.com"><img src="https://img.shields.io/badge/Email-alvarolopezmalizia%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-<br/>
+## About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<img align="right" width="380" alt="Connecting Dots and Building Bridges" src="https://github.com/AlvaroLopezMalizia/AlvaroLopezMalizia/assets/89276167/34cebe17-f849-4070-9fd8-07df2f244c72"/>
 
-<img align="right" width="400" alt="Connecting Dots and Building Bridges" src="https://github.com/AlvaroLopezMalizia/AlvaroLopezMalizia/assets/89276167/34cebe17-f849-4070-9fd8-07df2f244c72"/>
+I'm a postdoctoral researcher decoding the **tumour microenvironment** through data-driven approaches. My work sits at the crossroads of **wet-lab immunology** and **computational biology**, combining single-cell and spatial omics with machine learning to uncover new therapeutic opportunities in cancer.
 
-I'm a postdoctoral researcher passionate about decoding the tumour microenvironment through data-driven approaches. My work sits at the crossroads of <strong>wet-lab immunology</strong> and <strong>computational biology</strong>, combining single-cell and spatial omics with machine learning to uncover new therapeutic opportunities in cancer.
+Currently, I'm dissecting the **spatial architecture of lymphoma** — using spatial transcriptomics and unsupervised factor models (MEFISTO) to reveal the biological programs that shape the tumour microenvironment.
 
-Currently, I'm dissecting the <strong>spatial architecture of lymphoma</strong> — using spatial transcriptomics and unsupervised factor models (MEFISTO) to reveal the biological programs that shape the tumour microenvironment.
-
-### 🔬 Current Position
-
-> 🏛️ Postdoctoral Researcher at the <strong><a href="https://www.carrerasresearch.org/en/">Institut de Recerca contra la Leucèmia Josep Carreras (IJC)</a></strong>
->
-> 🎗️ Funded by the <strong><a href="https://aecctalent.com/">Asociación Española Contra el Cáncer (AECC)</a></strong> fellowship
->
-> 🧬 Applying omics techniques - single-cell RNAseq & spatial transcriptomics - to intratumoral immunology
+- 🏛️ Postdoctoral Researcher, [Cancer Immunogenomics group](https://www.carrerasresearch.org/en/), **Josep Carreras Leukaemia Research Institute (IJC)**, Barcelona
+- 🎗️ Fellow of the [**Asociación Española Contra el Cáncer (AECC)**](https://aecctalent.com/), co-funded by the European Union
+- 🧬 Single-cell RNA-seq · Spatial transcriptomics · Intratumoral immunology
 
 <br clear="right"/>
 
----
+## Selected Publications
 
-### 🎓 Education
-
-| Degree | Field | Institution | Extras |
-|:---:|:---:|:---:|:---:|
-| 🧪 <strong>Ph.D.</strong> | Intratumoral Immunology | <a href="https://www.fmed.uba.ar/">Fac. de Medicina, UBA</a> · Research stay at <a href="https://institut-curie.org/">Institut Curie</a> | — |
-| 📊 <strong>M.Sc.</strong> | Data Science | <a href="https://datamining.dc.uba.ar/datamining/">Data Mining Group, DC, UBA</a> | <a href="https://www.youtube.com/watch?v=NTipLTRHD_8&t=2406s">▶️ Thesis defense</a> |
-| 🌿 <strong>B.Sc.</strong> | Biology | <a href="https://exactas.uba.ar/">Fac. de Ciencias Exactas y Naturales, UBA</a> | — |
-
----
-
-### 📝 Selected Publications
-
-> 🧫 <strong><a href="https://doi.org/10.1080/2162402X.2023.2294564">Clusterin protects mature dendritic cells from reactive oxygen species mediated cell death</a></strong>
-> <em>OncoImmunology</em>, 2024 — first author
->
-> 🎯 <strong><a href="https://doi.org/10.1080/2162402X.2019.1629257">Aberrant fucosylation enables breast cancer clusterin to interact with DC-SIGN</a></strong>
-> <em>OncoImmunology</em>, 2019
->
-> 🩸 <strong><a href="https://doi.org/10.1111/bjh.18062">Platelets modulate CD4⁺ T-cell function in COVID-19 through a PD-L1 dependent mechanism</a></strong>
-> <em>British Journal of Haematology</em>, 2022
->
-> 🔬 <strong><a href="https://doi.org/10.3389/fimmu.2018.01441">Prostaglandin E2 antagonizes TGF-β actions during the differentiation of monocytes into dendritic cells</a></strong>
-> <em>Frontiers in Immunology</em>, 2018
->
-> 🗺️ <strong>Unsupervised spatial decomposition of lymphoma subtypes reveals distinct biological programs via MEFISTO</strong>
-> 2025 — first author
-
-<div align="center">
-<a href="https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Full%20publication%20list%20on%20Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-</div>
-
----
-
-### 📂 Featured Repositories
+- [**Clusterin protects mature dendritic cells from reactive oxygen species mediated cell death**](https://doi.org/10.1080/2162402X.2023.2294564)
+  *OncoImmunology*, 2024 — **first author**
+- [**Aberrant fucosylation enables breast cancer clusterin to interact with DC-SIGN**](https://doi.org/10.1080/2162402X.2019.1629257)
+  *OncoImmunology*, 2019
+- [**Platelets modulate CD4⁺ T-cell function in COVID-19 through a PD-L1 dependent mechanism**](https://doi.org/10.1111/bjh.18062)
+  *British Journal of Haematology*, 2022
+- [**Prostaglandin E2 antagonizes TGF-β actions during the differentiation of monocytes into dendritic cells**](https://doi.org/10.3389/fimmu.2018.01441)
+  *Frontiers in Immunology*, 2018
+- **Unsupervised spatial decomposition of lymphoma subtypes reveals distinct biological programs via MEFISTO**
+  2025 — **first author**
 
 <div align="center">
 
-<a href="https://github.com/AlvaroLopezMalizia/scRNAseq_workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=scRNAseq_workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
-<a href="https://github.com/AlvaroLopezMalizia/scTCR_workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=scTCR_workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
-
-<a href="https://github.com/AlvaroLopezMalizia/Facs_workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=Facs_workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
-<a href="https://github.com/AlvaroLopezMalizia/Word-networks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroLopezMalizia&repo=Word-networks&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" /></a>
+[![Google Scholar](https://img.shields.io/badge/Full%20publication%20list-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4dHg5W4AAAAJ&hl=en)
 
 </div>
 
----
+## Featured Repositories
 
-### 🛠️ Tech Stack
+| Repository | Description | Stack |
+|:---|:---|:---:|
+| [scRNAseq_workshop](https://github.com/AlvaroLopezMalizia/scRNAseq_workshop) | Hands-on workshop: single-cell RNA-seq analysis with Seurat | `R` |
+| [scTCR_workshop](https://github.com/AlvaroLopezMalizia/scTCR_workshop) | Hands-on workshop: single-cell TCR repertoire analysis | `R` |
+| [Facs_workshop](https://github.com/AlvaroLopezMalizia/Facs_workshop) | Hands-on workshop: flow cytometry (FACS) data analysis | `R` |
+| [Word-networks](https://github.com/AlvaroLopezMalizia/Word-networks) | Text mining and word co-occurrence network analysis | `Python` |
 
-<div align="center">
+## Education
 
-<h4>Languages</h4>
+| Degree | Field | Institution |
+|:---|:---|:---|
+| **Ph.D.** | Intratumoral Immunology | [Fac. de Medicina, UBA](https://www.fmed.uba.ar/) — research stay at [Institut Curie](https://institut-curie.org/) |
+| **M.Sc.** | Data Science | [Data Mining Group, DC, UBA](https://datamining.dc.uba.ar/datamining/) — [▶️ thesis defense](https://www.youtube.com/watch?v=NTipLTRHD_8&t=2406s) |
+| **B.Sc.** | Biology | [Fac. de Ciencias Exactas y Naturales, UBA](https://exactas.uba.ar/) |
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+## Tech Stack
 
-<h4>Data Science & ML</h4>
+**Languages** &nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+**Bioinformatics** &nbsp;
+<img src="https://img.shields.io/badge/Seurat-5A5A8F?style=flat-square" alt="Seurat"/> <img src="https://img.shields.io/badge/Scanpy-3776AB?style=flat-square" alt="Scanpy"/> <img src="https://img.shields.io/badge/Bioconductor-2E8B57?style=flat-square" alt="Bioconductor"/>
 
-<h4>Bioinformatics</h4>
+**Data Science & ML** &nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<img src="https://img.shields.io/badge/Bioconductor-2E8B57?style=for-the-badge&logoColor=white" alt="Bioconductor"/>
-<img src="https://img.shields.io/badge/Seurat-1A1A2E?style=for-the-badge&logoColor=white" alt="Seurat"/>
-<img src="https://img.shields.io/badge/Scanpy-3776AB?style=for-the-badge&logoColor=white" alt="Scanpy"/>
-
-<h4>Tools & Platforms</h4>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/AlvaroLopezMalizia"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroLopezMalizia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&ring_color=2EA043" /></a>
-<a href="https://github.com/AlvaroLopezMalizia"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroLopezMalizia&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&langs_count=8" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/AlvaroLopezMalizia"><img src="https://streak-stats.demolab.com/?user=AlvaroLopezMalizia&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=FF6F00&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=8B949E" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/AlvaroLopezMalizia"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroLopezMalizia&theme=github-compact&hide_border=true&bg_color=0D1117&color=2EA043&line=2EA043&point=FFFFFF&area=true&area_color=2EA043" /></a>
-
-</div>
+**Tools** &nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white" alt="RStudio"/>
 
 ---
 
 <div align="center">
 
-<h3>🤝 Let's Connect!</h3>
+*Exploring the fascinating realms of data-driven immunology — one cell at a time.*
 
-<strong>Exploring the fascinating realms of data-driven immunology — one cell at a time.</strong>
+📫 Open to collaborations in computational immunology and spatial omics — [get in touch](mailto:alvarolopezmalizia@gmail.com)
 
-<br/><br/>
-
-<a href="mailto:alvarolopezmalizia@gmail.com"><img src="https://img.shields.io/badge/Let's_collaborate!-2EA043?style=for-the-badge&logoColor=white" alt="Collaborate"/></a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6B3C,100:2EA043&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532D,100:166534&height=100&section=footer" />
 
 </div>
