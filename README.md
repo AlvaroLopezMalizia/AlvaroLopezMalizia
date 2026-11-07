@@ -18,7 +18,7 @@
 
 I'm a postdoctoral researcher decoding the **tumour microenvironment** through data-driven approaches. My work sits at the crossroads of **wet-lab immunology** and **computational biology**, combining single-cell and spatial omics with machine learning to uncover new therapeutic opportunities in cancer.
 
-Currently, I'm dissecting the **spatial architecture of lymphoma** — using spatial transcriptomics and unsupervised factor models (MEFISTO) to reveal the biological programs that shape the tumour microenvironment.
+Currently, I'm studying the **spatial organization of lymphomas** — mapping how tumour and immune cells assemble into spatial communities, and how this architecture shapes disease biology and response to therapy.
 
 - 🏛️ Postdoctoral Researcher, [Cancer Immunogenomics group](https://www.carrerasresearch.org/en/), **Josep Carreras Leukaemia Research Institute (IJC)**, Barcelona
 - 🎗️ Fellow of the [**Asociación Española Contra el Cáncer (AECC)**](https://aecctalent.com/), co-funded by the European Union
